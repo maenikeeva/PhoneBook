@@ -1,1 +1,7 @@
-KURSACH/
+.vs/
+x64/
+*.sln
+Debug/
+Release/
+*.exe
+*.obj
